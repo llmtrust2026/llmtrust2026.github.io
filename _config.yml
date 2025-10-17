@@ -11,13 +11,13 @@ description: >                       # short site tagline
   The 1st International Workshop on Software Engineering for and with Trustworthy LLMs (LLMTrust 2026)
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: workshop, IEEE, LLM, privacy, federated-learning, security, trustworthy-AI
+keywords: LLM, trustworthy, Software Engineering (SE)
 
 lang: en
 icon: 🧠
 
 url: "https://llmtrust2026.github.io"  
-baseurl: "/trustllm1"                           
+baseurl: ""                           
 last_updated: false
 impressum_path:
 
