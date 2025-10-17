@@ -77,4 +77,4 @@ We welcome submissions addressing either or both complementary scopes, plus cros
 ### Contact
 
 **Sumon Biswas** (Case Western Reserve University) — sumon@case.edu  
-**Shibbir Ahmed** (Texas State University) — shibbir@txstate.edu :contentReference[oaicite:11]{index=11}
+**Shibbir Ahmed** (Texas State University) — shibbir@txstate.edu 
