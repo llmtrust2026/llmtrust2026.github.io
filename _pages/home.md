@@ -88,6 +88,78 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
   </div>
 </div>
 
+### Technical Program Committee Members
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:1.25rem; align-items:start;">
+
+  <!-- 1 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Akond Rahman" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Akond Rahman</strong><br><em>Auburn University, USA</em>
+  </div>
+
+  <!-- 2 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Giang Nguyen" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Giang Nguyen</strong><br><em>Meta Inc., USA</em>
+  </div>
+
+  <!-- 3 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Gias Uddin" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Gias Uddin</strong><br><em>York University, Canada</em>
+  </div>
+
+  <!-- 4 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Hong Jin Kang" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Hong Jin Kang</strong><br><em>University of Sydney, Australia</em>
+  </div>
+
+  <!-- 5 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Iftekhar Ahmed" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Iftekhar Ahmed</strong><br><em>University of California, Irvine, USA</em>
+  </div>
+
+  <!-- 6 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Jaydeb Sarkar" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Jaydeb Sarkar</strong><br><em>University of Nebraska at Omaha, USA</em>
+  </div>
+
+  <!-- 7 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Masud Rahman" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Masud Rahman</strong><br><em>Dalhousie University, Canada</em>
+  </div>
+
+  <!-- 8 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Saikat Dutta" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Saikat Dutta</strong><br><em>Cornell University, USA</em>
+  </div>
+
+  <!-- 9 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Samantha S. Khairunnesa" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Samantha S. Khairunnesa</strong><br><em>Bradley University, USA</em>
+  </div>
+
+  <!-- 10 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Sayem M. Imtiaz" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Dr. Sayem M. Imtiaz</strong><br><em>Meta Inc., USA</em>
+  </div>
+
+  <!-- 11 -->
+  <div style="text-align:center;">
+    <img src="{{ '/assets/img/speaker.png' | relative_url }}" alt="Yining She" style="width:110px; height:110px; object-fit:cover; border-radius:50%;"><br>
+    <strong>Yining She</strong><br><em>Carnegie Mellon University, USA</em>
+  </div>
+
+</div>
+
 ---
 
 ### Call for Papers
