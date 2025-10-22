@@ -86,7 +86,6 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
     /><br>
     <strong>Dr. Hridesh Rajan</strong><br><em>Tulane University, USA</em>
   </div>
-</div>
 
 ### Technical Program Committee Members
 
