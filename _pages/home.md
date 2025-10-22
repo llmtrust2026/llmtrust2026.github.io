@@ -70,6 +70,16 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
   <div style="text-align:center;">
     <img
+      src="{{ '/assets/img/speakers/Sayem.jpg' | relative_url }}"
+      alt="Dr. Sayem Mohammad Imtiaz"
+      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
+    /><br>
+    <strong>Dr. Sayem Mohammad Imtiaz</strong><br><em>Research Scientist, Meta, USA</em>
+  </div>
+</div>
+
+  <div style="text-align:center;">
+    <img
       src="{{ '/assets/img/hrajan.jpg' | relative_url }}"
       alt="Dr. Hridesh Rajan"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
