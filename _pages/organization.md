@@ -62,15 +62,15 @@ nav_order: 5
 ## Technical Program Committee Members
 
 <ul>
-  <li>Dr. Iftekhar Ahmed, Associate Professor, University of California, Irvine, USA</li>
-  <li>Dr. Sayem Mohammad Imtiaz, Research Scientist, Meta</li>
-  <li>Dr. Jaydeb Sarkar, Assistant Professor, University of Nebraska at Omaha, USA</li>
-  <li>Dr. Giang Nguyen, Research Scientist, Meta</li>
-  <li>Dr. Samantha Syeda Khairunnesa, Assistant Professor, Bradley University, USA</li>
-  <li>Dr. Hong Jin Kang, Lecturer, University of Sydney, Australia</li>
-  <li>Dr. Saikat Dutta, Assistant Professor, Cornell University, USA</li>
-  <li>Dr. Gias Uddin, Associate Professor, York University, Canada</li>
-  <li>Dr. Masud Rahman, Associate Professor, Dalhousie University, Canada</li>
-  <li>Yining She, PhD Student, Carnegie Mellon University, USA</li>
   <li>Dr. Akond Rahman, Assistant Professor, Auburn University, USA</li>
+  <li>Dr. Giang Nguyen, Research Scientist, Meta Inc., USA</li>
+  <li>Dr. Gias Uddin, Associate Professor, York University, Canada</li>
+  <li>Dr. Hong Jin Kang, Lecturer, University of Sydney, Australia</li>
+  <li>Dr. Iftekhar Ahmed, Associate Professor, University of California, Irvine, USA</li>
+  <li>Dr. Jaydeb Sarkar, Assistant Professor, University of Nebraska at Omaha, USA</li>
+  <li>Dr. Masud Rahman, Associate Professor, Dalhousie University, Canada</li>
+  <li>Dr. Saikat Dutta, Assistant Professor, Cornell University, USA</li>
+  <li>Dr. Samantha S. Khairunnesa, Assistant Professor, Bradley University, USA</li>
+  <li>Dr. Sayem M. Imtiaz, Research Scientist, Meta Inc., USA</li>
+  <li>Yining She, PhD Student, Carnegie Mellon University, USA</li>
 </ul>
