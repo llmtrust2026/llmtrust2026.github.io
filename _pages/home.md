@@ -121,7 +121,7 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
   <!-- 5 -->
   <div style="text-align:center;">
-    <img src="{{ '/assets/img/tpc/lftekhar.jpg' | relative_url }}" alt="Iftekhar Ahmed"
+    <img src="{{ '/assets/img/tpc/Iftekhar.jpg' | relative_url }}" alt="Iftekhar Ahmed"
          style="width:110px; height:110px; object-fit:cover; border-radius:50%;">
     <br><strong>Dr. Iftekhar Ahmed</strong><br><em>University of California, Irvine, USA</em>
   </div>
