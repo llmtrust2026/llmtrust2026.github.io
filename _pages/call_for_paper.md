@@ -50,11 +50,13 @@ We welcome submissions addressing either or both complementary scopes, plus cros
 - **Submission Types.**  
 ### Submission Types
 • **Full papers (8 pages including references):** novel research, empirical studies, or tools.  
-  *Note: Up to **2 additional pages** are allowed for references.*
+  *Note: Up to **2 pages** are allowed for references.*
+  
 • **Short papers (5 pages including references):** position papers, work-in-progress, experience reports, tool papers, or benchmarks.  
-  *Note: Up to **1 additional page** is allowed for references.*
-• **Extended abstracts (5 pages including references):** early ideas, position statements, discussion topics, or demonstrations (**APC-free**).  
-  *Note: Up to **1 additional page** is allowed for references.*
+  *Note: Up to **1 page** is allowed for references.*
+  
+• **Extended abstracts (1-5 pages including references):** early ideas, position statements, discussion topics, or demonstrations (**APC-free**).  
+  *Note: Up to **1 page** is allowed for references.*
 
 - **Registration.** At least one author of each accepted paper must register for the workshop. Organizers will not submit to their own workshop (FSE policy). 
 - **Submission Site.** Please submit via **HotCRP**: https://fse26workshops.hotcrp.com/ 
