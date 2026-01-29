@@ -193,6 +193,10 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
 - **Extended abstracts (1–5 pages including references):** early ideas, position statements, discussion topics, or demonstrations (**APC-free**).
   - *Note: Up to **1 page** is allowed for references.*
+ 
+- **Registration.** At least one author of each accepted paper must register for the workshop. Organizers will not submit to their own workshop (FSE policy). 
+- <strong>Submission Site:</strong> Please submit via 
+<a href="https://llmtrust2026.hotcrp.com/">HotCRP</a>
 
 ### Important Dates (AoE)
 
