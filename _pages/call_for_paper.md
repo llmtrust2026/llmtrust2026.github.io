@@ -62,7 +62,7 @@ We welcome submissions addressing either or both complementary scopes, plus cros
 
 - **Registration.** At least one author of each accepted paper must register for the workshop. Organizers will not submit to their own workshop (FSE policy). 
 - <strong>Submission Site:</strong> Please submit via 
-<a href="[https://fse26workshops.hotcrp.com/](https://llmtrust2026.hotcrp.com/)">HotCRP</a>
+<a href="https://llmtrust2026.hotcrp.com/">HotCRP</a>
 
 
 ---
