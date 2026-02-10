@@ -46,7 +46,7 @@ We welcome submissions addressing either or both complementary scopes, plus cros
 
 ## Submission & Proceedings
 
-- **Venue & Proceedings.** Proceedings will appear in the **ACM Digital Library** as part of the **FSE 2026 Companion Proceedings**. All submissions must use the **ACM format** and follow ACM policies.
+- **Venue & Proceedings.** Proceedings will appear in the **ACM Digital Library** as part of the **FSE 2026 Companion Proceedings**. All submissions must use the **ACM format** and follow ACM policies. The review process will be Double-Anonymous following the method of [FSE 2026](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers).
   
 ### Submission Types
 
