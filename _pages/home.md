@@ -181,8 +181,8 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
 ## Submission & Proceedings
 
-- **Venue & Proceedings.** Proceedings will appear in the **ACM Digital Library** as part of the **FSE 2026 Companion Proceedings**. All submissions must use the **ACM format** and follow ACM policies.
-  
+- **Venue & Proceedings.** Proceedings will appear in the **ACM Digital Library** as part of the **FSE 2026 Companion Proceedings**. All submissions must use the **ACM format** and follow ACM policies. The review process will be Double-Anonymous following the method of [FSE 2026](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers).
+
 ### Submission Types
 
 - **Full papers (8 pages including references):** novel research, empirical studies, or tools.
