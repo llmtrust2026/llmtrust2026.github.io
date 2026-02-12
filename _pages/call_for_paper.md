@@ -69,7 +69,7 @@ We welcome submissions addressing either or both complementary scopes, plus cros
 
 ## Important Dates (AoE)
 
-- **Paper submission:** **February 12, 2026**  
+- **Paper submission:** **February 19, 2026**  
 - **Notification:** **March 19, 2026**  
 - **Camera-ready:** **April 2, 2026**  
 - **Workshop:** **July 5 or 6, 2026** 
