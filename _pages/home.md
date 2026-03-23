@@ -202,9 +202,9 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
 
 **Submission deadline:** February 19, 2026 (AoE)  
-**Notification of acceptance:** March 19, 2026  
-**Camera-ready paper due:** April 2, 2026  
-**Workshop date:** July 5 or 6, 2026 (AoE)  
+**Notification of acceptance:** March 24, 2026 (AoE)
+**Camera-ready paper due:** April 2, 2026 (AoE)  
+**Workshop date:** July 5, 2026 (AoE)  
 
 Full details are available on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
