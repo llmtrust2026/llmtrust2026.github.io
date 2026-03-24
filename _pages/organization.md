@@ -112,9 +112,9 @@ nav_order: 5
   </div>
 
   <div style="text-align:center;">
-    <img src="{{ '/assets/img/tpc/jaydeb.jpg' | relative_url }}" alt="Jaydeb Sarkar"
+    <img src="{{ '/assets/img/tpc/jaydeb.jpg' | relative_url }}" alt="Jaydeb Sarker"
          style="width:110px; height:110px; object-fit:cover; border-radius:50%;">
-    <br><strong>Dr. Jaydeb Sarkar</strong><br><em>University of Nebraska at Omaha, USA</em>
+    <br><strong>Dr. Jaydeb Sarker</strong><br><em>University of Nebraska at Omaha, USA</em>
   </div>
 
   <div style="text-align:center;">
