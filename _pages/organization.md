@@ -153,6 +153,12 @@ nav_order: 5
     <br><strong>Dr. Breno Dantas Cruz</strong><br><em>Tulane University, USA</em>
   </div>
 
+    <div style="text-align:center;">
+    <img src="{{ '/assets/img/tpc/sayma.jpg' | relative_url }}" alt="Sayma Sultana"
+         style="width:110px; height:110px; object-fit:cover; border-radius:50%;">
+    <br><strong>Dr. Sayma Sultana</strong><br><em>Tulane University, USA</em>
+  </div>
+  
 </div>
 
 ---
