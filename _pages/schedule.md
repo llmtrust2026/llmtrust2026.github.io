@@ -9,8 +9,9 @@ nav_title: "Schedule"
 
 # Tentative Workshop Schedule
 
-<p><strong>Date:</strong> July 5, 2026
-<strong>Venue:</strong> Co-located with ACM FSE 2026, Montreal, Canada</p>
+<p><strong>Date:</strong> July 5, 2026<br>
+<strong>Venue:</strong> Co-located with ACM FSE 2026, Montreal, Canada<br>
+<strong>Room:</strong> <a href="https://conf.researchr.org/room/fse-2026/fse-2026-venue-mb-3.445">MB 3.445</a>, Concordia SGW Campus (Downtown Montreal)</p>
 
 <p style="margin-top: 1rem;"><strong>Presentation Timing.</strong>
 Long papers: 8 minutes presentation + 2 minutes Q&amp;A.
