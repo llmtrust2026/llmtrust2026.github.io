@@ -25,6 +25,13 @@ nav_order: 1
     style="width:100%; max-height:300px; object-fit:cover;"
   />
 </div>
+
+<!-- Announcement -->
+<div style="max-width:800px; margin:0 auto 2.5rem auto; padding:14px 20px; border:1px solid #cfe3d6; border-left:5px solid #2e8b57; border-radius:6px; background:#f2f9f5; text-align:center;">
+  <strong>📢 News:</strong> The workshop schedule is now finalized, including our keynote and panel lineup.
+  See the <a href="{{ '/schedule/' | relative_url }}">full schedule</a>.
+</div>
+
 ## Welcome
 
 Welcome to **The 1st International Workshop on Software Engineering for and with Trustworthy LLMs (LLMTrust 2026)**, co-located with **FSE 2026**.  
@@ -217,8 +224,8 @@ Full details are available on the [Call for Papers page]({{ '/call-for-papers/' 
 
 ---
 
-### Tentative Workshop Schedule
+### Workshop Schedule
 
 The workshop will feature keynote presentations, paper sessions, tool demonstrations, and an interactive panel on trustworthy LLM engineering practices.
 
-See the full schedule on the [Tentative Workshop Schedule page]({{ '/schedule/' | relative_url }}).
+See the full schedule on the [Workshop Schedule page]({{ '/schedule/' | relative_url }}).
